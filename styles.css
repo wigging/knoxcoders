@@ -18,10 +18,12 @@ h1, h2 {
     margin-top: 2rem;
 }
 
-img {
-    border-radius: 50%;
-    object-fit: cover;
-    width: 64px;
+#logo {
+    border-radius: 20%;
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    max-width: 128px;
 }
 
 @media screen and (prefers-color-scheme: dark) {
